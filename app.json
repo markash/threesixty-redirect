@@ -1,6 +1,6 @@
 {
     "name": "ThreeSixty Redirect",
-    "description": "A barebones PHP app that makes use of the Silex web framework",
+    "description": "A simple redirect",
     "repository": "https://github.com/markash/threesixty-redirect",
     "addons": []
   }
